@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Meu nome é Gustavo, tenho 23 anos e sou Bacharel em Ciência da computação. Atualmente estou cursando MBA em Engenharia de Software pela UTFPR. Trabalho como docente no [SENAI](http://sc.senai.br/) nos cursos de desenvolvimento de sistemas.
+Meu nome é Gustavo, tenho 26 anos, sou bacharel em Ciência da Computação e pós-graduado em Engenharia de Software pela UTFPR. Atualmente, estou cursando pós-graduação em Arquitetura de Software e Soluções. Trabalho como Engenheiro de Software na [Portobello Shop](https://www.portobello.com.br/pt) e também como docente no [SENAI](http://sc.senai.br/), ministrando cursos de desenvolvimento de sistemas.
